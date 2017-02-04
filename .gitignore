@@ -23,3 +23,8 @@ data/DoctrineORMModule/cache/
 # Legacy ZF1
 demos/
 extras/documentation
+
+# Hidden files/folders
+.idea
+
+test.php
