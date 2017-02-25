@@ -12,4 +12,9 @@ class Test
     {
         echo "test";
     }
+
+    public function test_three()
+    {
+        echo "three";
+    }
 }
