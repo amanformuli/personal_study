@@ -15,6 +15,11 @@ class Test
 
     public function test_two()
     {
-        
+
+    }
+
+    public function test_three()
+    {
+        echo "three";
     }
 }
